@@ -22,7 +22,7 @@ struct ContentView: View {
                     .cornerRadius(25.0)
                     .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
                 
-                Text("Woman with really great camera")
+                Text("Woman with great camera")
                     .font(/*@START_MENU_TOKEN@*/.largeTitle/*@END_MENU_TOKEN@*/)
                     .fontWeight(.bold)
                     .foregroundColor(.white)
